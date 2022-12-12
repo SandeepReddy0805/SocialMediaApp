@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330161544494",
+    "project_id": "sandeepreddy-1c52e",
+    "storage_bucket": "sandeepreddy-1c52e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330161544494:android:120bfe104d619000512ebf",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330161544494-35mrv4o8i777pg8admc2252e0s68ilke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFwwe1KvB71FyE8gOdm68SIWa33PY4Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330161544494-35mrv4o8i777pg8admc2252e0s68ilke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
